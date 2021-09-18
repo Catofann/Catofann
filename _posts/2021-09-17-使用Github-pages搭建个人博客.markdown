@@ -3,7 +3,7 @@
 layout: post
 title: 使用Github pages搭建个人博客
 date: "2021-09-17 12:30:00"
-tags: [blog, github, jekyll]
+tags: [Blog, Github, Jekyll]
 
 ---
 
