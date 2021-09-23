@@ -1,0 +1,37 @@
+```
+layout: post
+title: 便捷阅读外文电子书（epub格式）
+date: "2021-09-20"
+tags: [Ebook]
+```
+
+# 便捷阅读外文电子书（epub格式）
+
+当你想阅读外文原版书，苦于外文水平不足以自行翻译，复制语句进行翻译过于繁琐，全文翻译无法便利地进行双语对照，可以尝试以下方案。
+
+所需工具：
+
+* Chrome浏览器
+* 彩云小译插件
+* NeatReader网络端
+
+步骤：
+
+1. 为Chrome浏览器安装彩云小译[浏览器插件](https://fanyi.caiyunapp.com/#/web)。
+
+   ![彩云小译](https://pic.imgdb.cn/item/614beb702ab3f51d91b990c2.jpg)
+
+2. 在浏览器中打开[NeatReader网页端](https://www.neat-reader.cn/webapp#/)。
+
+   ![NeatReader](https://pic.imgdb.cn/item/614bec372ab3f51d91ba946a.jpg)
+
+3. 打开本地图书。
+
+   ![epub](https://pic.imgdb.cn/item/614beca12ab3f51d91bb07cd.jpg)
+
+4. 打开阅读界面，点击彩云小译插件开启翻译。
+
+   ![epub](https://pic.imgdb.cn/item/614bed112ab3f51d91bb8408.jpg)
+
+
+
